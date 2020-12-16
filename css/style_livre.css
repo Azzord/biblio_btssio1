@@ -24,6 +24,7 @@ nav{
     height: 60px;
     background: #2c2f33;
     width: 100%;
+    z-index: 5;
 }
 nav h1{
     position: absolute;
@@ -51,6 +52,7 @@ nav ul li a {
     font-size: 16px;
     text-decoration: none;
     font-family: Abzee;
+ 
 }
 
 #menu {
@@ -70,12 +72,6 @@ label #signe{
 #sticky{
     position: sticky;
     top: 0;
-    z-index: 1;
-}
-
-.sticky2{
-    position: sticky;
-    top: 80px;
     z-index: 1;
 }
 
@@ -302,6 +298,7 @@ label #signe{
         display: block;
         margin: 40px 0;
         line-height: 40px;
+        z-index: 5;
     }
     #menu:checked ~ ul {
         left: 0;
