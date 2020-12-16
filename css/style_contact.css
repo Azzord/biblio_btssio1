@@ -1,0 +1,163 @@
+@font-face {
+    font-family: Abzee;
+    src: url(../css/ABeeZee-Regular.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Abzee;
+    position: absolute;
+    background-image: url(../images/fond2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+.mob{
+    display: none;
+}
+nav{
+    height: 60px;
+    background: #2c2f33;
+    width: 100%;
+    z-index: 1;
+}
+nav h1{
+    position: absolute;
+    width: 200px;
+    top: 14px;
+    left: 2%;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+nav ul{
+    float: right;
+    margin-right: 25px;
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 15px;
+}
+nav ul li a {
+    position: relative;
+    padding: 5px 0;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: Abzee;
+}
+#menu {
+    display: none;
+}
+
+label #signe{
+    font-size: 30px;
+    color: #FFFFFF;
+    float: right;
+    line-height: 15px;
+    margin-right: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+#sticky{
+    position: sticky;
+    top: 0;
+}
+
+#ipssi{
+    position: absolute;
+    margin-left: 49%;
+    margin-right: 51%;
+}
+
+nav ul li a:hover{
+    color: #7289DA;
+    border-bottom: 3px solid;
+    overflow: hidden;
+}
+
+.active{
+    color: #7289DA;
+    border-bottom: 3px solid;
+    overflow: hidden;
+}
+
+
+.mail{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.inf{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.reme{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+#email{
+    color: #67C8FF;
+}
+
+#email2{
+    color: #7289DA;
+}
+
+#email3{
+    color: #FF0000;
+}
+
+@media (max-width: 995px) {
+    label #signe{
+        display: block;
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+    nav ul{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #2c2f33;
+        top: 60px;
+        left: -100%;
+        text-align: center;
+        transition: .5s;
+        z-index: 10;
+
+    }
+    nav ul li{
+        display: block;
+        margin: 40px 0;
+        line-height: 40px;
+    }
+    #menu:checked ~ ul {
+        left: 0;
+    }
+    h1{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    #ipssi{
+        left: -2%;
+        right: -4%;
+    }
+}
