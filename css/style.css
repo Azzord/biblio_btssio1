@@ -266,6 +266,161 @@ a{
 
 
 /*Animations etc */
+@media (max-width: 1115px){
+    .bd{
+        width: 150px;
+        height: 200px;
+    }
+    .fg1{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 1075px){
+    #livre1{
+        margin-left: auto;
+        grid-template-columns: repeat(3, 1fr);
+        margin-right: auto;
+    }
+    .bd{
+        width: 120px;
+        height: 160px;
+    }
+    .fg1{
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 790px){
+    #livre1{
+        margin-left: auto;
+        grid-template-columns: repeat(2, 1fr);
+        margin-right: auto;
+    }
+    .bd{
+        width: 120px;
+        height: 160px;
+    }
+    .fg1{
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 600px){
+    #livre1{
+        margin-left: auto;
+        grid-template-columns: repeat(2, 1fr);
+        margin-right: auto;
+    }
+    .bd{
+        width: 120px;
+        height: 160px;
+    }
+    .fg1{
+        font-size: 13px;
+    }
+    .fp{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 530px){
+    #livre1{
+        margin-left: auto;
+        grid-template-columns: repeat(2, 1fr);
+        margin-right: auto;
+    }
+    .nom,.pa{
+        font-size: 15px;
+        -webkit-text-stroke-width: 0px;
+    }
+    .bd{
+        width: 120px;
+        height: 160px;
+    }
+    .fg1{
+        font-size: 13px;
+        width: 200px;
+    }
+    .fp{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 500px){
+    #livre1{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .bd{
+        width: 100px;
+        height: 130px;
+    }
+    .fg1{
+        font-size: 10px;
+        width: 170px;
+    }
+    figure{
+        width: 150px;
+    }
+    .fp{
+        font-size: 16px;
+    }
+    .nom,.pa{
+        -webkit-text-stroke-width: 0px;
+    }
+}
+@media (max-width: 426px){
+    body{
+        width: 100%;
+    }
+    footer{
+        width: 495px;
+    }
+    #livre1{
+        width: 450px;
+        margin-left: 5px;
+    }
+    nav{
+        width: 495px;
+    }
+    .fg1{
+        font-size: 15px;
+    }
+    .tabl{
+        font-size: 13px;
+    }
+    .nom,.pa,.pr{
+        position: relative;
+        left: 30px;
+    }
+}
+@media (max-width: 415px){
+    body{
+        width: 100%;
+    }
+    footer{
+        width: 495px;
+    }
+    #livre1{
+        width: 450px;
+        margin-left: 5px;
+    }
+    nav{
+        width: 495px;
+    }
+    .fg1{
+        font-size: 15px;
+    }
+    .tabl{
+        font-size: 13px;
+    }
+    .nom,.pa,.pr{
+        position: relative;
+        left: 70px;
+    }
+}
 @media (max-width: 995px) {
     label #signe{
         display: block;
