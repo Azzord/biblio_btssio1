@@ -123,7 +123,6 @@ label #signe{
 /* Mise en page "page précédente/suivante" */
 
 #avant {
-    float: left;
     color: #78A3D4;
     font-size: 16px;
     margin-left: 20px;

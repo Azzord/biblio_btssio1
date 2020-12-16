@@ -108,9 +108,9 @@ label #signe{
 }
 
 #ipssi{
-    position: absolute;
-    margin-left: 49%;
-    margin-right: 51%;
+    position: relative;
+    left: 49%;
+    right: 51%;
 }
 
 hr { 
@@ -162,7 +162,7 @@ hr {
 #livre1{
     position: relative;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     justify-items: center;
     margin-left: 50px;
     margin-right: 50px;
@@ -182,8 +182,16 @@ hr {
 .fg1{
     position: relative;
     color: #FFFFFF;
-    font-size: 28px;
-    
+    font-size: 18px;
+    left: 20px;
+    width: 245px;
+}
+
+.tabl{
+    position: absolute;
+    top: -50px;
+    color: #FFFFFF;
+    font-size: 15px;
 }
 
 .hiddenr{
