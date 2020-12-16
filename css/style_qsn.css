@@ -17,6 +17,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
+    height: 100%;
     z-index: -1;
 }
 .mob{
@@ -136,7 +137,8 @@ nav ul li a:hover{
 	text-align: center;
 	font-size: 20px;
     font-weight: initial;
-	margin-top: 60px;
+    margin-top: 60px;
+    margin-bottom: 120px;
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
@@ -149,8 +151,6 @@ nav ul li a:hover{
     animation-name: appear;
 }
 
-
-
 .job{
 	color: #F4D03F;
 }
@@ -162,6 +162,20 @@ nav ul li a:hover{
 .infos{
 	color: #FF7F50;
 }
+
+
+.fbg{
+    background-color: #2c2f33;
+    height: 150px;
+}
+
+.fp{
+    color:#FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 20px;
+}
+
 
 ::-webkit-scrollbar {
     overflow-x: hidden;

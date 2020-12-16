@@ -11,6 +11,7 @@
 	<title> Contact </title>
 	<!--link-css-file-->
 	<link rel="stylesheet" type="text/css" href="../css/style_contact.css">
+	<link rel="icon" href="../images/favicon.ico"/>
 </head>
 <body>
 	<nav id="sticky">
@@ -27,7 +28,7 @@
 				</ul>
 		</nav>
 
-		<section><h1 class="mail"> Vous pouvez nous contacter principalement sur nos 
+		<section><h1 class="mail"> Vous pouvez nous contacter directement sur nos 
 		<span id="email">adresses mails</span></h1>.
 		<div class="inf"><span id="email2"> e-mail DAYOT</span> : k.dayot@ecole-ipssi.net
 		<br>
@@ -36,5 +37,38 @@
 		<div class="reme"> Nous vous remercions d'avoir visité notre bibliothèque en ligne &#33;</div>
 		</section>
 
+		<form method="post">
+
+				<label for="name" class="cat"> Pseudonyme: </label>
+				<input type="text" id ="name" name="client_name" autofocus required><br>
+		
+				<label for ="mail" class="cat"> Courriel:</label>
+				<input type="email" id="mail" name="client_mail" required><br>
+
+				<label for = "pack" class="cat"> Raison:</label>
+
+				<select class="cat">
+					<option value="Design"> Design du site </option>
+					<option value="Bug">Bug rencontré </option>
+					<option value="Bug">Suggestion(s)</option>
+				</select>
+				<br>	
+
+				<label for = "addreq" class="cat"><br>Informations complémentaires: </label><br>
+				<textarea id ="addreq" placeholder="Entrez ici vos remarques" class="cat2"></textarea>
+			
+				<br>
+				<button type="reset">Tout effacer</button>
+				<button type="submit">Envoyer</button>
+
+			</form>
+			
+			
 </body>
+
+<footer class="fbg"> 
+	<p class="fp"> Ecole IPSSI - Campus Marne-La-Vallée - Projet Web </p>
+	<p class="fp"> © 2020 Tous droits réservés </p>
+	</footer>
+
 </html>

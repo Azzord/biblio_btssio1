@@ -17,7 +17,9 @@ body{
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
+    height: 100%;
 }
+
 .mob{
     display: none;
 }
@@ -125,6 +127,84 @@ nav ul li a:hover{
 #email3{
     color: #FF0000;
 }
+
+form{
+    width: 400px;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=text] {
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid #7289DA;
+    background-color:#2c2f33;
+    border-radius: 4px;
+    color:#FFFFFF;
+    margin-bottom: 20px;
+  }
+
+  input[type=email] {
+    font-size: 20px;
+    width: 290px;
+    border: none;
+    border-bottom: 2px solid #FF0000;
+    background-color:#2c2f33;
+    border-radius: 4px;
+    color:#FFFFFF;
+    margin-bottom: 20px;
+  }
+
+.cat{
+    font-size: 20px;
+    color:#FFFFFF;
+}
+
+.cat2{
+    font-size: 20px;
+    color:#FFFFFF;
+    width: 375px;
+}
+
+select{
+    background-color: #2c2f33;
+    color: #FFFFFF;
+    border-bottom: 2px solid #7289DA;
+    border-radius: 4px;
+}
+
+textarea{
+    background-color: #2c2f33;
+    color: #FFFFFF;
+    border-bottom: 2px solid #FF0000;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+button{
+    font-size: 16px;
+    padding: 10px;
+    background-color: #2c2f33;
+    color: #FFFFFF;
+    border-bottom: 3px solid #7289DA;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+
+
+.fbg{
+    background-color: #2c2f33;
+    height: 150px;
+}
+
+.fp{
+    color:#FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 20px;
+}
+
 
 @media (max-width: 995px) {
     label #signe{
