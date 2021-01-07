@@ -22,16 +22,16 @@
 				<h1> KD & MM </h1>
 				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
-		<a href="9782070102648.html"><p id="avant"> Les Misérables </p></a>
-		<a href="9782070144488.html"><p id="suiv"> Héroïsmes mineurs </p></a>
+		<a href="9782070102648.php"><p id="avant"> Les Misérables </p></a>
+		<a href="9782070144488.php"><p id="suiv"> Héroïsmes mineurs </p></a>
 		<section><h2 id="t1"> La vie de couple des poissons rouges </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33; </span>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33; </span>
 		<img src="../images/poisson.png" class ="bd" alt="Call 404"></a></div>
 		
 		<section><h2 class="extra"> ISBN : 2283028426 - Auteur : Guadalupe Nettel - Editeur : BUCHET CHASTEL - Année de publication : 2015 - Nombre de pages : 128 - Type : Nouvelle</h2></section>

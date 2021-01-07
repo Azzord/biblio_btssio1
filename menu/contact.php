@@ -22,8 +22,8 @@
 				<h1> Contact </h1>
 				<a href="../index.html"><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="qsn.html"> Qui sommes-nous </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="qsn.php"> Qui sommes-nous </a></li>
 					<li><a href="#" class="active"> Contact </a></li>
 				</ul>
 		</nav>

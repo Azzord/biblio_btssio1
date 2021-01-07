@@ -20,18 +20,18 @@
 				<i class="fas fa-align-justify" id="signe"></i>
 			</label>
 				<h1> KD & MM </h1>
-				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
+				<a href="../index.php" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
-		<a href="9781300985730.html"><p id="avant"> L'épopée de Gilgamesh </p></a>
-		<a href="9782070102648.html"><p id="suiv"> Les Misérables </p></a>
+		<a href="9781300985730.php"><p id="avant"> L'épopée de Gilgamesh </p></a>
+		<a href="9782070102648.php"><p id="suiv"> Les Misérables </p></a>
 		<section><h2 id="t1"> Oksa </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33; </span>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33; </span>
 		<img src="../images/oksa.png" class ="bd" alt="Call 404"></a></div>
 		
 		<section><h2 class="extra"> ISBN : 2845634609 - Auteur : Cendrine Wolf, Anne Plichota - Editeur : XO EDITIONS - Année de publication : 2010 - Nombre de pages : 485 - Type : Roman</h2></section>

@@ -7,7 +7,7 @@
 	<!-- Font Awesome kit's code-->
 	<script src="https://kit.fontawesome.com/35d9663f9e.js" crossorigin="anonymous"></script>
 	<!-- titre -->
-	<title> The Art of DOOM Eternal </title>
+	<title> Monster Hunter World, The Official Complete Works </title>
 	<!--link-css-file-->
     <link rel="stylesheet" type="text/css" href="../css/style_livre.css">
     <link rel="icon" href="../images/favicon.ico"/>
@@ -22,20 +22,20 @@
 				<h1> KD & MM </h1>
 				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
 
-		<a href="1974711099.html"><p id="avant"> Monster Hunter World</p></a>
-		<a href="../index.html"><p id="suiv"> Accueil </p></a>
-		<section><h2 id="t1"> The Art of DOOM Eternal </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33;</span>
-		<img src="../images/doom.png" class ="bd" alt="Call 404"></a></div>
-		<section><h2 class="extra"> ISBN : 1506715540 - Auteur : iD Software - Editeur : Dark Horse Books - Année de publication : 2020 - Nombre de pages : 192 - Type : Artbook</h2></section>
-		<section><p class="resume"><strong>Résumé</strong>: Retrouver à travers cet Artbook l'univers de DOOM Eternal ! (conception des monstres, des armes etc)
+		<a href="9782070144488.php" ><p id="avant"> Heroïsmes Mineurs </p></a>
+		<a href="1506715540.php" ><p id="suiv"> Doom Eternal </p></a>
+		<section><h2 id="t1"> Monster Hunter World, The Official Complete Works</h2></section>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33;</span>
+		<img src="../images/hunter.png" class ="bd" alt="Call 404"></a></div>
+		<section><h2 class="extra"> ISBN : 1974711099 - Auteur : Capcom - Editeur : VIZ Media - Année de publication : 2020 - Nombre de pages : 560 - Type : Artbook </h2></section>
+		<section><p class="resume"><strong>Résumé</strong>: Retrouver à l'intérieur de cet Artbook toute l'histoire de Monster Hunter World ! (de la conception des armures, des monstres etc)
 		</p></section>
 
 		<footer class="fbg"> 
@@ -46,6 +46,7 @@
 			<a href="https://github.com/Azzord/biblio_btssio1"><img src="../images/gh.png" class="gh" alt="call 404"></a>
 			</div>
 			</footer>
+
 
 	</body>
 </html> 

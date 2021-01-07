@@ -20,18 +20,18 @@
 				<i class="fas fa-align-justify" id="signe"></i>
 			</label>
 				<h1> KD & MM </h1>
-				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
+				<a href="../index.php" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
-		<a href="2845634609.html"><p id="avant"> Oksa </p></a>
-		<a href="2283028426.html"><p id="suiv">La vie de couple des poissons rouges </p></a>
+		<a href="2845634609.php"><p id="avant"> Oksa </p></a>
+		<a href="2283028426.php"><p id="suiv">La vie de couple des poissons rouges </p></a>
 		<section><h2 id="t1"> Les Misérables </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33; </span>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33; </span>
 		<img src="../images/miserable.png" class ="bd" alt="Call 404"></a></div>
 
 		<section><h2 class="extra"> ISBN : 9782070102648 - Auteur : Victor Hugo - Editeur : MAURICE ALLEM - Année de publication : 1862 - Nombre de pages : 2 598 - Type : Roman</h2></section>

@@ -7,7 +7,7 @@
 	<!-- Font Awesome kit's code-->
 	<script src="https://kit.fontawesome.com/35d9663f9e.js" crossorigin="anonymous"></script>
 	<!-- titre -->
-	<title> Bebop Cowboy </title>
+	<title> Les Simpson </title>
 	<!--link-css-file-->
 	<link rel="stylesheet" type="text/css" href="../css/style_livre.css">
 	<link rel="icon" href="../images/favicon.ico"/>
@@ -22,19 +22,21 @@
 				<h1> KD & MM </h1>
 				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
-		<a href="2205025635.html"><p id="avant"> Garfield </p></a>
-		<a href="9782871291282.html"><p id="suiv"> Detective Conan </p></a>
-		<section><h2 id="t1"> Bebop Cowboy </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33; </span>
-		<img src="../images/bebop.png" class ="bd" alt="Call 404"></a></div>
-		<section><h2 class="extra"> ISBN : 9782845992795 - Auteur : Cain KUGA - Editeur : PIKA - Année de publication : 1998 - Nombre de pages : 192 - Type : Manga</h2></section>
-		<div><p class="resume"><strong>Résumé</strong>: Une demande de recherches arrive à l'improviste à Spike, Jet, Faye, Ed & Ein, les chasseurs de prime qui voyagent dans l'espace à bord du Bebop. Leur cible semble se trouver en prison. Spike s'y infiltre sans tarder, mais la cible en question se révèle pleine de surprises..
+		<a href="../index.php"><p id="avant"> Accueil </p></a>
+		<a href="2205025635.php"><p id="suiv"> Garfield </p></a>
+		<section><h2 id="t1"> Les Simpson, Extravaganza </h2></section>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33; </span><img src="../images/simp.png" class ="bd" alt="Call 404"></a></div>
+
+		<section><h2 class="extra"> ISBN : 2845387660 - Auteur : Matt Groening - Editeur : JUNGLE - Année de publication : 1998 - Nombre de pages : 47 pages - Type : BD </h2></section>
+		<div><p class="resume"><strong>Résumé</strong>: 2 histoires inédites dans cet album
+		<br>« Bart la main froide »
+		<br>« C'est écrit dans les cartes » 
 		</p></div>
 
 		<footer class="fbg"> 
@@ -45,5 +47,6 @@
 			<a href="https://github.com/Azzord/biblio_btssio1"><img src="../images/gh.png" class="gh" alt="call 404"></a>
 			</div>
 			</footer>
+
 	</body>
 </html> 

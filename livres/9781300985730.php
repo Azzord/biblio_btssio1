@@ -20,18 +20,18 @@
 				<i class="fas fa-align-justify" id="signe"></i>
 			</label>
 				<h1> KD & MM </h1>
-				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
+				<a href="../index.php" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
-		<a href="9782010009112.html"><p id="avant"> Homère, l'Odysée </p></a>
-		<a href="2845634609.html"><p id="suiv"> Oksa </p></a>
+		<a href="9782010009112.php"><p id="avant"> Homère, l'Odysée </p></a>
+		<a href="2845634609.php"><p id="suiv"> Oksa </p></a>
 		<section><h2 id="t1"> L'épopée de Gilgamesh </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33; </span>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33; </span>
 		<img src="../images/gilga.png" class ="bd" alt="Call 404"></a></div>
 		<section><h2 class="extra"> ISBN : 9781300985730 - Auteur : Blondel BRION - Editeur : Soleil - Année de publication : 2010 - Nombre de pages : 160 - Type : Épopée</h2></section>
 		<div><p class="resume"><strong>Résumé</strong>:L’Épopée de Gilgamesh est un récit épique de la Mésopotamie. Faisant partie des œuvres littéraires les plus anciennes de l’humanité, la première version connue a été rédigée en akkadien dans la Babylonie du XVIIIᵉ au XVIIᵉ siècle av. J.-C

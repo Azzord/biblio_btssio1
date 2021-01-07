@@ -22,17 +22,17 @@
 				<h1> KD & MM </h1>
 				<a href="../index.html" ><img id ="ipssi" src="../images/logo.png" alt="Call 404"></a>
 				<ul>
-					<li><a href="../index.html"> Accueil </a></li>
-					<li><a href="../menu/qsn.html"> Qui sommes-nous </a></li>
-					<li><a href="../menu/contact.html"> Contact </a></li>
+					<li><a href="../index.php"> Accueil </a></li>
+					<li><a href="../menu/qsn.php"> Qui sommes-nous </a></li>
+					<li><a href="../menu/contact.php"> Contact </a></li>
 				</ul>
 		</nav>
 
 
-		<a href="2845387660.html"><p id="avant"> Les Simpson </p></a>
-		<a href="9782845992795.html"><p id="suiv"> Bebop Cowboy </p></a>
+		<a href="2845387660.php"><p id="avant"> Les Simpson </p></a>
+		<a href="9782845992795.php"><p id="suiv"> Bebop Cowboy </p></a>
 		<section><h2 id="t1"> Garfield, Prends du poids </h2></section>
-		<div id ="img"><a href="../index.html" class="test"><span> Vers l'accueil &#33;</span>
+		<div id ="img"><a href="../index.php" class="test"><span> Vers l'accueil &#33;</span>
 		<img src="../images/lasagne.png" class ="bd" alt="Call 404"></a></div>
 		<section><h2 class="extra"> ISBN : 2205025635 - Auteur : Jim Davis - Editeur : DARGAUD - Année de publication : 1981 - Nombre de pages : 48 - Type : BD</h2></section>
 		<section><p class="resume"><strong>Résumé</strong>: Le chat le plus paresseux de l'histoire de la BD voit le jour en 1978 dans la presse quotidienne et dominicale américaine. Garfield, adulé par son maître, peut savourer tout à loisir le plaisir de ne rien faire ; gras, toujours fatigué, toujours affamé, toujours bavard, il philosophe avec humour sur sa condition féline. En n'oubliant pas de s'alimenter et de se reposer, bien sûr..
